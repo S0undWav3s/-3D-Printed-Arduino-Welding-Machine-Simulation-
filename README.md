@@ -1,6 +1,3 @@
-# -3D-Printed-Arduino-Welding-Machine-Simulation-
-3D-Printed-Arduino-Welding-Machine-Simulation
-
 <br>
 <center><b>3D-Printed-Arduino-Welding-Machine-Simulation</b></center>
 <br/>
